@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a [tool]() to help me on my journey towards home ownership
+- 🌱 I’m currently learning how to build multi-cloud infrastructures with <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="18" height="18"/> and <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="18" height="18"/>
+- 📫 How to reach me: my [linkedin](https://www.linkedin.com/in/neerajhpatel/)
+
 <!--
 **neerajhp/neerajhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
